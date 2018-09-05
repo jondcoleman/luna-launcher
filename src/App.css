@@ -1,0 +1,24 @@
+body {
+  background: white;
+  -webkit-app-region: drag;
+  min-height: 300px;
+}
+
+.App {
+  padding: 2em;
+}
+
+.input-container {
+  display: flex;
+}
+
+.list-container {
+  background: white;
+}
+
+input {
+  -webkit-app-region: no-drag;
+  flex: 1;
+  font-size: 1.5em;
+  padding: 0.5em;
+}
