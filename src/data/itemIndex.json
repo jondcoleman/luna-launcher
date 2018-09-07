@@ -1,0 +1,12 @@
+[
+  {
+    "shortName": "Evernote",
+    "type": "File",
+    "path": "\"C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Evernote/Evernote.lnk\""
+  },
+  {
+    "shortName": "Event Viewer",
+    "type": "File",
+    "path": "\"C:/ProgramData/Microsoft/Windows/Start Menu/Programs/Administrative Tools/Event Viewer.lnk\""
+  }
+]

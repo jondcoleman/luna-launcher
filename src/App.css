@@ -22,3 +22,19 @@ input {
   font-size: 1.5em;
   padding: 0.5em;
 }
+
+li.suggestion-item {
+  display: block;
+  padding: 5px;
+}
+
+ul.suggestion-container {
+  padding: initial;
+  border: 1px solid black;
+  margin: 0px;
+}
+
+.autocomplete-container {
+  display: flex;
+  flex-direction: column;
+}
